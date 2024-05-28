@@ -1,0 +1,976 @@
+models:
+    export:
+        models:
+            a:
+                models:
+                    a:
+                        models:
+                            a:
+                                models:
+                                    a:
+                                        models:
+                                            a:
+                                                models:
+                                                    a:
+                                                        models:
+                                                            a:
+                                                                models:
+                                                                    a:
+                                                                        models:
+                                                                            a:
+                                                                                models:
+                                                                                    a:
+                                                                                        models:
+                                                                                            a:
+                                                                                                models:
+                                                                                                    a:
+                                                                                                        models:
+                                                                                                            a:
+                                                                                                                models:
+                                                                                                                    a:
+                                                                                                                        models:
+                                                                                                                            a:
+                                                                                                                                models:
+                                                                                                                                    a:
+                                                                                                                                        models:
+                                                                                                                                            a:
+                                                                                                                                                models:
+                                                                                                                                                    a:
+                                                                                                                                                        models:
+                                                                                                                                                            a:
+                                                                                                                                                                models:
+                                                                                                                                                                    a:
+                                                                                                                                                                        models:
+                                                                                                                                                                            a:
+                                                                                                                                                                                models:
+                                                                                                                                                                                    a:
+                                                                                                                                                                                        models:
+                                                                                                                                                                                            a:
+                                                                                                                                                                                                models: {}
+                                                                                                                                                                                                origin:
+                                                                                                                                                                                                    - 0
+                                                                                                                                                                                                    - 0
+                                                                                                                                                                                            b:
+                                                                                                                                                                                                paths:
+                                                                                                                                                                                                    ShapeLine1:
+                                                                                                                                                                                                        type: line
+                                                                                                                                                                                                        origin:
+                                                                                                                                                                                                            - -7
+                                                                                                                                                                                                            - -7
+                                                                                                                                                                                                        end:
+                                                                                                                                                                                                            - 7
+                                                                                                                                                                                                            - -7
+                                                                                                                                                                                                    ShapeLine2:
+                                                                                                                                                                                                        type: line
+                                                                                                                                                                                                        origin:
+                                                                                                                                                                                                            - 7
+                                                                                                                                                                                                            - -7
+                                                                                                                                                                                                        end:
+                                                                                                                                                                                                            - 7
+                                                                                                                                                                                                            - 7
+                                                                                                                                                                                                    ShapeLine3:
+                                                                                                                                                                                                        type: line
+                                                                                                                                                                                                        origin:
+                                                                                                                                                                                                            - 7
+                                                                                                                                                                                                            - 7
+                                                                                                                                                                                                        end:
+                                                                                                                                                                                                            - -7
+                                                                                                                                                                                                            - 7
+                                                                                                                                                                                                    ShapeLine4:
+                                                                                                                                                                                                        type: line
+                                                                                                                                                                                                        origin:
+                                                                                                                                                                                                            - -7
+                                                                                                                                                                                                            - 7
+                                                                                                                                                                                                        end:
+                                                                                                                                                                                                            - -7
+                                                                                                                                                                                                            - -7
+                                                                                                                                                                                                origin:
+                                                                                                                                                                                                    - 0
+                                                                                                                                                                                                    - 0
+                                                                                                                                                                                        origin:
+                                                                                                                                                                                            - 0
+                                                                                                                                                                                            - 0
+                                                                                                                                                                                    b:
+                                                                                                                                                                                        paths:
+                                                                                                                                                                                            ShapeLine1:
+                                                                                                                                                                                                type: line
+                                                                                                                                                                                                origin:
+                                                                                                                                                                                                    - -7
+                                                                                                                                                                                                    - 10
+                                                                                                                                                                                                end:
+                                                                                                                                                                                                    - 7
+                                                                                                                                                                                                    - 10
+                                                                                                                                                                                            ShapeLine2:
+                                                                                                                                                                                                type: line
+                                                                                                                                                                                                origin:
+                                                                                                                                                                                                    - 7
+                                                                                                                                                                                                    - 10
+                                                                                                                                                                                                end:
+                                                                                                                                                                                                    - 7
+                                                                                                                                                                                                    - 24
+                                                                                                                                                                                            ShapeLine3:
+                                                                                                                                                                                                type: line
+                                                                                                                                                                                                origin:
+                                                                                                                                                                                                    - 7
+                                                                                                                                                                                                    - 24
+                                                                                                                                                                                                end:
+                                                                                                                                                                                                    - -7
+                                                                                                                                                                                                    - 24
+                                                                                                                                                                                            ShapeLine4:
+                                                                                                                                                                                                type: line
+                                                                                                                                                                                                origin:
+                                                                                                                                                                                                    - -7
+                                                                                                                                                                                                    - 24
+                                                                                                                                                                                                end:
+                                                                                                                                                                                                    - -7
+                                                                                                                                                                                                    - 10
+                                                                                                                                                                                        origin:
+                                                                                                                                                                                            - 0
+                                                                                                                                                                                            - 0
+                                                                                                                                                                                origin:
+                                                                                                                                                                                    - 0
+                                                                                                                                                                                    - 0
+                                                                                                                                                                            b:
+                                                                                                                                                                                paths:
+                                                                                                                                                                                    ShapeLine1:
+                                                                                                                                                                                        type: line
+                                                                                                                                                                                        origin:
+                                                                                                                                                                                            - -7
+                                                                                                                                                                                            - 27
+                                                                                                                                                                                        end:
+                                                                                                                                                                                            - 7
+                                                                                                                                                                                            - 27
+                                                                                                                                                                                    ShapeLine2:
+                                                                                                                                                                                        type: line
+                                                                                                                                                                                        origin:
+                                                                                                                                                                                            - 7
+                                                                                                                                                                                            - 27
+                                                                                                                                                                                        end:
+                                                                                                                                                                                            - 7
+                                                                                                                                                                                            - 41
+                                                                                                                                                                                    ShapeLine3:
+                                                                                                                                                                                        type: line
+                                                                                                                                                                                        origin:
+                                                                                                                                                                                            - 7
+                                                                                                                                                                                            - 41
+                                                                                                                                                                                        end:
+                                                                                                                                                                                            - -7
+                                                                                                                                                                                            - 41
+                                                                                                                                                                                    ShapeLine4:
+                                                                                                                                                                                        type: line
+                                                                                                                                                                                        origin:
+                                                                                                                                                                                            - -7
+                                                                                                                                                                                            - 41
+                                                                                                                                                                                        end:
+                                                                                                                                                                                            - -7
+                                                                                                                                                                                            - 27
+                                                                                                                                                                                origin:
+                                                                                                                                                                                    - 0
+                                                                                                                                                                                    - 0
+                                                                                                                                                                        origin:
+                                                                                                                                                                            - 0
+                                                                                                                                                                            - 0
+                                                                                                                                                                    b:
+                                                                                                                                                                        paths:
+                                                                                                                                                                            ShapeLine1:
+                                                                                                                                                                                type: line
+                                                                                                                                                                                origin:
+                                                                                                                                                                                    - -7
+                                                                                                                                                                                    - 44
+                                                                                                                                                                                end:
+                                                                                                                                                                                    - 7
+                                                                                                                                                                                    - 44
+                                                                                                                                                                            ShapeLine2:
+                                                                                                                                                                                type: line
+                                                                                                                                                                                origin:
+                                                                                                                                                                                    - 7
+                                                                                                                                                                                    - 44
+                                                                                                                                                                                end:
+                                                                                                                                                                                    - 7
+                                                                                                                                                                                    - 58
+                                                                                                                                                                            ShapeLine3:
+                                                                                                                                                                                type: line
+                                                                                                                                                                                origin:
+                                                                                                                                                                                    - 7
+                                                                                                                                                                                    - 58
+                                                                                                                                                                                end:
+                                                                                                                                                                                    - -7
+                                                                                                                                                                                    - 58
+                                                                                                                                                                            ShapeLine4:
+                                                                                                                                                                                type: line
+                                                                                                                                                                                origin:
+                                                                                                                                                                                    - -7
+                                                                                                                                                                                    - 58
+                                                                                                                                                                                end:
+                                                                                                                                                                                    - -7
+                                                                                                                                                                                    - 44
+                                                                                                                                                                        origin:
+                                                                                                                                                                            - 0
+                                                                                                                                                                            - 0
+                                                                                                                                                                origin:
+                                                                                                                                                                    - 0
+                                                                                                                                                                    - 0
+                                                                                                                                                            b:
+                                                                                                                                                                paths:
+                                                                                                                                                                    ShapeLine1:
+                                                                                                                                                                        type: line
+                                                                                                                                                                        origin:
+                                                                                                                                                                            - 11
+                                                                                                                                                                            - 4.9
+                                                                                                                                                                        end:
+                                                                                                                                                                            - 25
+                                                                                                                                                                            - 4.9
+                                                                                                                                                                    ShapeLine2:
+                                                                                                                                                                        type: line
+                                                                                                                                                                        origin:
+                                                                                                                                                                            - 25
+                                                                                                                                                                            - 4.9
+                                                                                                                                                                        end:
+                                                                                                                                                                            - 25
+                                                                                                                                                                            - 18.9
+                                                                                                                                                                    ShapeLine3:
+                                                                                                                                                                        type: line
+                                                                                                                                                                        origin:
+                                                                                                                                                                            - 25
+                                                                                                                                                                            - 18.9
+                                                                                                                                                                        end:
+                                                                                                                                                                            - 11
+                                                                                                                                                                            - 18.9
+                                                                                                                                                                    ShapeLine4:
+                                                                                                                                                                        type: line
+                                                                                                                                                                        origin:
+                                                                                                                                                                            - 11
+                                                                                                                                                                            - 18.9
+                                                                                                                                                                        end:
+                                                                                                                                                                            - 11
+                                                                                                                                                                            - 4.9
+                                                                                                                                                                origin:
+                                                                                                                                                                    - 0
+                                                                                                                                                                    - 0
+                                                                                                                                                        origin:
+                                                                                                                                                            - 0
+                                                                                                                                                            - 0
+                                                                                                                                                    b:
+                                                                                                                                                        paths:
+                                                                                                                                                            ShapeLine1:
+                                                                                                                                                                type: line
+                                                                                                                                                                origin:
+                                                                                                                                                                    - 11
+                                                                                                                                                                    - 21.9
+                                                                                                                                                                end:
+                                                                                                                                                                    - 25
+                                                                                                                                                                    - 21.9
+                                                                                                                                                            ShapeLine2:
+                                                                                                                                                                type: line
+                                                                                                                                                                origin:
+                                                                                                                                                                    - 25
+                                                                                                                                                                    - 21.9
+                                                                                                                                                                end:
+                                                                                                                                                                    - 25
+                                                                                                                                                                    - 35.9
+                                                                                                                                                            ShapeLine3:
+                                                                                                                                                                type: line
+                                                                                                                                                                origin:
+                                                                                                                                                                    - 25
+                                                                                                                                                                    - 35.9
+                                                                                                                                                                end:
+                                                                                                                                                                    - 11
+                                                                                                                                                                    - 35.9
+                                                                                                                                                            ShapeLine4:
+                                                                                                                                                                type: line
+                                                                                                                                                                origin:
+                                                                                                                                                                    - 11
+                                                                                                                                                                    - 35.9
+                                                                                                                                                                end:
+                                                                                                                                                                    - 11
+                                                                                                                                                                    - 21.9
+                                                                                                                                                        origin:
+                                                                                                                                                            - 0
+                                                                                                                                                            - 0
+                                                                                                                                                origin:
+                                                                                                                                                    - 0
+                                                                                                                                                    - 0
+                                                                                                                                            b:
+                                                                                                                                                paths:
+                                                                                                                                                    ShapeLine1:
+                                                                                                                                                        type: line
+                                                                                                                                                        origin:
+                                                                                                                                                            - 11
+                                                                                                                                                            - 38.9
+                                                                                                                                                        end:
+                                                                                                                                                            - 25
+                                                                                                                                                            - 38.9
+                                                                                                                                                    ShapeLine2:
+                                                                                                                                                        type: line
+                                                                                                                                                        origin:
+                                                                                                                                                            - 25
+                                                                                                                                                            - 38.9
+                                                                                                                                                        end:
+                                                                                                                                                            - 25
+                                                                                                                                                            - 52.9
+                                                                                                                                                    ShapeLine3:
+                                                                                                                                                        type: line
+                                                                                                                                                        origin:
+                                                                                                                                                            - 25
+                                                                                                                                                            - 52.9
+                                                                                                                                                        end:
+                                                                                                                                                            - 11
+                                                                                                                                                            - 52.9
+                                                                                                                                                    ShapeLine4:
+                                                                                                                                                        type: line
+                                                                                                                                                        origin:
+                                                                                                                                                            - 11
+                                                                                                                                                            - 52.9
+                                                                                                                                                        end:
+                                                                                                                                                            - 11
+                                                                                                                                                            - 38.9
+                                                                                                                                                origin:
+                                                                                                                                                    - 0
+                                                                                                                                                    - 0
+                                                                                                                                        origin:
+                                                                                                                                            - 0
+                                                                                                                                            - 0
+                                                                                                                                    b:
+                                                                                                                                        paths:
+                                                                                                                                            ShapeLine1:
+                                                                                                                                                type: line
+                                                                                                                                                origin:
+                                                                                                                                                    - 11
+                                                                                                                                                    - 55.9
+                                                                                                                                                end:
+                                                                                                                                                    - 25
+                                                                                                                                                    - 55.9
+                                                                                                                                            ShapeLine2:
+                                                                                                                                                type: line
+                                                                                                                                                origin:
+                                                                                                                                                    - 25
+                                                                                                                                                    - 55.9
+                                                                                                                                                end:
+                                                                                                                                                    - 25
+                                                                                                                                                    - 69.9
+                                                                                                                                            ShapeLine3:
+                                                                                                                                                type: line
+                                                                                                                                                origin:
+                                                                                                                                                    - 25
+                                                                                                                                                    - 69.9
+                                                                                                                                                end:
+                                                                                                                                                    - 11
+                                                                                                                                                    - 69.9
+                                                                                                                                            ShapeLine4:
+                                                                                                                                                type: line
+                                                                                                                                                origin:
+                                                                                                                                                    - 11
+                                                                                                                                                    - 69.9
+                                                                                                                                                end:
+                                                                                                                                                    - 11
+                                                                                                                                                    - 55.9
+                                                                                                                                        origin:
+                                                                                                                                            - 0
+                                                                                                                                            - 0
+                                                                                                                                origin:
+                                                                                                                                    - 0
+                                                                                                                                    - 0
+                                                                                                                            b:
+                                                                                                                                paths:
+                                                                                                                                    ShapeLine1:
+                                                                                                                                        type: line
+                                                                                                                                        origin:
+                                                                                                                                            - 29
+                                                                                                                                            - 8.3
+                                                                                                                                        end:
+                                                                                                                                            - 43
+                                                                                                                                            - 8.3
+                                                                                                                                    ShapeLine2:
+                                                                                                                                        type: line
+                                                                                                                                        origin:
+                                                                                                                                            - 43
+                                                                                                                                            - 8.3
+                                                                                                                                        end:
+                                                                                                                                            - 43
+                                                                                                                                            - 22.3
+                                                                                                                                    ShapeLine3:
+                                                                                                                                        type: line
+                                                                                                                                        origin:
+                                                                                                                                            - 43
+                                                                                                                                            - 22.3
+                                                                                                                                        end:
+                                                                                                                                            - 29
+                                                                                                                                            - 22.3
+                                                                                                                                    ShapeLine4:
+                                                                                                                                        type: line
+                                                                                                                                        origin:
+                                                                                                                                            - 29
+                                                                                                                                            - 22.3
+                                                                                                                                        end:
+                                                                                                                                            - 29
+                                                                                                                                            - 8.3
+                                                                                                                                origin:
+                                                                                                                                    - 0
+                                                                                                                                    - 0
+                                                                                                                        origin:
+                                                                                                                            - 0
+                                                                                                                            - 0
+                                                                                                                    b:
+                                                                                                                        paths:
+                                                                                                                            ShapeLine1:
+                                                                                                                                type: line
+                                                                                                                                origin:
+                                                                                                                                    - 29
+                                                                                                                                    - 25.299999999999997
+                                                                                                                                end:
+                                                                                                                                    - 43
+                                                                                                                                    - 25.299999999999997
+                                                                                                                            ShapeLine2:
+                                                                                                                                type: line
+                                                                                                                                origin:
+                                                                                                                                    - 43
+                                                                                                                                    - 25.299999999999997
+                                                                                                                                end:
+                                                                                                                                    - 43
+                                                                                                                                    - 39.3
+                                                                                                                            ShapeLine3:
+                                                                                                                                type: line
+                                                                                                                                origin:
+                                                                                                                                    - 43
+                                                                                                                                    - 39.3
+                                                                                                                                end:
+                                                                                                                                    - 29
+                                                                                                                                    - 39.3
+                                                                                                                            ShapeLine4:
+                                                                                                                                type: line
+                                                                                                                                origin:
+                                                                                                                                    - 29
+                                                                                                                                    - 39.3
+                                                                                                                                end:
+                                                                                                                                    - 29
+                                                                                                                                    - 25.299999999999997
+                                                                                                                        origin:
+                                                                                                                            - 0
+                                                                                                                            - 0
+                                                                                                                origin:
+                                                                                                                    - 0
+                                                                                                                    - 0
+                                                                                                            b:
+                                                                                                                paths:
+                                                                                                                    ShapeLine1:
+                                                                                                                        type: line
+                                                                                                                        origin:
+                                                                                                                            - 29
+                                                                                                                            - 42.3
+                                                                                                                        end:
+                                                                                                                            - 43
+                                                                                                                            - 42.3
+                                                                                                                    ShapeLine2:
+                                                                                                                        type: line
+                                                                                                                        origin:
+                                                                                                                            - 43
+                                                                                                                            - 42.3
+                                                                                                                        end:
+                                                                                                                            - 43
+                                                                                                                            - 56.3
+                                                                                                                    ShapeLine3:
+                                                                                                                        type: line
+                                                                                                                        origin:
+                                                                                                                            - 43
+                                                                                                                            - 56.3
+                                                                                                                        end:
+                                                                                                                            - 29
+                                                                                                                            - 56.3
+                                                                                                                    ShapeLine4:
+                                                                                                                        type: line
+                                                                                                                        origin:
+                                                                                                                            - 29
+                                                                                                                            - 56.3
+                                                                                                                        end:
+                                                                                                                            - 29
+                                                                                                                            - 42.3
+                                                                                                                origin:
+                                                                                                                    - 0
+                                                                                                                    - 0
+                                                                                                        origin:
+                                                                                                            - 0
+                                                                                                            - 0
+                                                                                                    b:
+                                                                                                        paths:
+                                                                                                            ShapeLine1:
+                                                                                                                type: line
+                                                                                                                origin:
+                                                                                                                    - 29
+                                                                                                                    - 59.3
+                                                                                                                end:
+                                                                                                                    - 43
+                                                                                                                    - 59.3
+                                                                                                            ShapeLine2:
+                                                                                                                type: line
+                                                                                                                origin:
+                                                                                                                    - 43
+                                                                                                                    - 59.3
+                                                                                                                end:
+                                                                                                                    - 43
+                                                                                                                    - 73.3
+                                                                                                            ShapeLine3:
+                                                                                                                type: line
+                                                                                                                origin:
+                                                                                                                    - 43
+                                                                                                                    - 73.3
+                                                                                                                end:
+                                                                                                                    - 29
+                                                                                                                    - 73.3
+                                                                                                            ShapeLine4:
+                                                                                                                type: line
+                                                                                                                origin:
+                                                                                                                    - 29
+                                                                                                                    - 73.3
+                                                                                                                end:
+                                                                                                                    - 29
+                                                                                                                    - 59.3
+                                                                                                        origin:
+                                                                                                            - 0
+                                                                                                            - 0
+                                                                                                origin:
+                                                                                                    - 0
+                                                                                                    - 0
+                                                                                            b:
+                                                                                                paths:
+                                                                                                    ShapeLine1:
+                                                                                                        type: line
+                                                                                                        origin:
+                                                                                                            - 47
+                                                                                                            - 4.9
+                                                                                                        end:
+                                                                                                            - 61
+                                                                                                            - 4.9
+                                                                                                    ShapeLine2:
+                                                                                                        type: line
+                                                                                                        origin:
+                                                                                                            - 61
+                                                                                                            - 4.9
+                                                                                                        end:
+                                                                                                            - 61
+                                                                                                            - 18.9
+                                                                                                    ShapeLine3:
+                                                                                                        type: line
+                                                                                                        origin:
+                                                                                                            - 61
+                                                                                                            - 18.9
+                                                                                                        end:
+                                                                                                            - 47
+                                                                                                            - 18.9
+                                                                                                    ShapeLine4:
+                                                                                                        type: line
+                                                                                                        origin:
+                                                                                                            - 47
+                                                                                                            - 18.9
+                                                                                                        end:
+                                                                                                            - 47
+                                                                                                            - 4.9
+                                                                                                origin:
+                                                                                                    - 0
+                                                                                                    - 0
+                                                                                        origin:
+                                                                                            - 0
+                                                                                            - 0
+                                                                                    b:
+                                                                                        paths:
+                                                                                            ShapeLine1:
+                                                                                                type: line
+                                                                                                origin:
+                                                                                                    - 47
+                                                                                                    - 21.9
+                                                                                                end:
+                                                                                                    - 61
+                                                                                                    - 21.9
+                                                                                            ShapeLine2:
+                                                                                                type: line
+                                                                                                origin:
+                                                                                                    - 61
+                                                                                                    - 21.9
+                                                                                                end:
+                                                                                                    - 61
+                                                                                                    - 35.9
+                                                                                            ShapeLine3:
+                                                                                                type: line
+                                                                                                origin:
+                                                                                                    - 61
+                                                                                                    - 35.9
+                                                                                                end:
+                                                                                                    - 47
+                                                                                                    - 35.9
+                                                                                            ShapeLine4:
+                                                                                                type: line
+                                                                                                origin:
+                                                                                                    - 47
+                                                                                                    - 35.9
+                                                                                                end:
+                                                                                                    - 47
+                                                                                                    - 21.9
+                                                                                        origin:
+                                                                                            - 0
+                                                                                            - 0
+                                                                                origin:
+                                                                                    - 0
+                                                                                    - 0
+                                                                            b:
+                                                                                paths:
+                                                                                    ShapeLine1:
+                                                                                        type: line
+                                                                                        origin:
+                                                                                            - 47
+                                                                                            - 38.9
+                                                                                        end:
+                                                                                            - 61
+                                                                                            - 38.9
+                                                                                    ShapeLine2:
+                                                                                        type: line
+                                                                                        origin:
+                                                                                            - 61
+                                                                                            - 38.9
+                                                                                        end:
+                                                                                            - 61
+                                                                                            - 52.9
+                                                                                    ShapeLine3:
+                                                                                        type: line
+                                                                                        origin:
+                                                                                            - 61
+                                                                                            - 52.9
+                                                                                        end:
+                                                                                            - 47
+                                                                                            - 52.9
+                                                                                    ShapeLine4:
+                                                                                        type: line
+                                                                                        origin:
+                                                                                            - 47
+                                                                                            - 52.9
+                                                                                        end:
+                                                                                            - 47
+                                                                                            - 38.9
+                                                                                origin:
+                                                                                    - 0
+                                                                                    - 0
+                                                                        origin:
+                                                                            - 0
+                                                                            - 0
+                                                                    b:
+                                                                        paths:
+                                                                            ShapeLine1:
+                                                                                type: line
+                                                                                origin:
+                                                                                    - 47
+                                                                                    - 55.9
+                                                                                end:
+                                                                                    - 61
+                                                                                    - 55.9
+                                                                            ShapeLine2:
+                                                                                type: line
+                                                                                origin:
+                                                                                    - 61
+                                                                                    - 55.9
+                                                                                end:
+                                                                                    - 61
+                                                                                    - 69.9
+                                                                            ShapeLine3:
+                                                                                type: line
+                                                                                origin:
+                                                                                    - 61
+                                                                                    - 69.9
+                                                                                end:
+                                                                                    - 47
+                                                                                    - 69.9
+                                                                            ShapeLine4:
+                                                                                type: line
+                                                                                origin:
+                                                                                    - 47
+                                                                                    - 69.9
+                                                                                end:
+                                                                                    - 47
+                                                                                    - 55.9
+                                                                        origin:
+                                                                            - 0
+                                                                            - 0
+                                                                origin:
+                                                                    - 0
+                                                                    - 0
+                                                            b:
+                                                                paths:
+                                                                    ShapeLine1:
+                                                                        type: line
+                                                                        origin:
+                                                                            - 65
+                                                                            - 3.1999999999999993
+                                                                        end:
+                                                                            - 79
+                                                                            - 3.1999999999999993
+                                                                    ShapeLine2:
+                                                                        type: line
+                                                                        origin:
+                                                                            - 79
+                                                                            - 3.1999999999999993
+                                                                        end:
+                                                                            - 79
+                                                                            - 17.2
+                                                                    ShapeLine3:
+                                                                        type: line
+                                                                        origin:
+                                                                            - 79
+                                                                            - 17.2
+                                                                        end:
+                                                                            - 65
+                                                                            - 17.2
+                                                                    ShapeLine4:
+                                                                        type: line
+                                                                        origin:
+                                                                            - 65
+                                                                            - 17.2
+                                                                        end:
+                                                                            - 65
+                                                                            - 3.1999999999999993
+                                                                origin:
+                                                                    - 0
+                                                                    - 0
+                                                        origin:
+                                                            - 0
+                                                            - 0
+                                                    b:
+                                                        paths:
+                                                            ShapeLine1:
+                                                                type: line
+                                                                origin:
+                                                                    - 65
+                                                                    - 20.2
+                                                                end:
+                                                                    - 79
+                                                                    - 20.2
+                                                            ShapeLine2:
+                                                                type: line
+                                                                origin:
+                                                                    - 79
+                                                                    - 20.2
+                                                                end:
+                                                                    - 79
+                                                                    - 34.2
+                                                            ShapeLine3:
+                                                                type: line
+                                                                origin:
+                                                                    - 79
+                                                                    - 34.2
+                                                                end:
+                                                                    - 65
+                                                                    - 34.2
+                                                            ShapeLine4:
+                                                                type: line
+                                                                origin:
+                                                                    - 65
+                                                                    - 34.2
+                                                                end:
+                                                                    - 65
+                                                                    - 20.2
+                                                        origin:
+                                                            - 0
+                                                            - 0
+                                                origin:
+                                                    - 0
+                                                    - 0
+                                            b:
+                                                paths:
+                                                    ShapeLine1:
+                                                        type: line
+                                                        origin:
+                                                            - 65
+                                                            - 37.2
+                                                        end:
+                                                            - 79
+                                                            - 37.2
+                                                    ShapeLine2:
+                                                        type: line
+                                                        origin:
+                                                            - 79
+                                                            - 37.2
+                                                        end:
+                                                            - 79
+                                                            - 51.2
+                                                    ShapeLine3:
+                                                        type: line
+                                                        origin:
+                                                            - 79
+                                                            - 51.2
+                                                        end:
+                                                            - 65
+                                                            - 51.2
+                                                    ShapeLine4:
+                                                        type: line
+                                                        origin:
+                                                            - 65
+                                                            - 51.2
+                                                        end:
+                                                            - 65
+                                                            - 37.2
+                                                origin:
+                                                    - 0
+                                                    - 0
+                                        origin:
+                                            - 0
+                                            - 0
+                                    b:
+                                        paths:
+                                            ShapeLine1:
+                                                type: line
+                                                origin:
+                                                    - 65
+                                                    - 54.2
+                                                end:
+                                                    - 79
+                                                    - 54.2
+                                            ShapeLine2:
+                                                type: line
+                                                origin:
+                                                    - 79
+                                                    - 54.2
+                                                end:
+                                                    - 79
+                                                    - 68.2
+                                            ShapeLine3:
+                                                type: line
+                                                origin:
+                                                    - 79
+                                                    - 68.2
+                                                end:
+                                                    - 65
+                                                    - 68.2
+                                            ShapeLine4:
+                                                type: line
+                                                origin:
+                                                    - 65
+                                                    - 68.2
+                                                end:
+                                                    - 65
+                                                    - 54.2
+                                        origin:
+                                            - 0
+                                            - 0
+                                origin:
+                                    - 0
+                                    - 0
+                            b:
+                                paths:
+                                    ShapeLine1:
+                                        type: line
+                                        origin:
+                                            - 56.32008020000001
+                                            - -14.368749400000002
+                                        end:
+                                            - 69.84304180000001
+                                            - -17.992216
+                                    ShapeLine2:
+                                        type: line
+                                        origin:
+                                            - 69.84304180000001
+                                            - -17.992216
+                                        end:
+                                            - 73.46650840000001
+                                            - -4.4692544000000005
+                                    ShapeLine3:
+                                        type: line
+                                        origin:
+                                            - 73.46650840000001
+                                            - -4.4692544000000005
+                                        end:
+                                            - 59.94354680000001
+                                            - -0.8457878000000019
+                                    ShapeLine4:
+                                        type: line
+                                        origin:
+                                            - 59.94354680000001
+                                            - -0.8457878000000019
+                                        end:
+                                            - 56.32008020000001
+                                            - -14.368749400000002
+                                origin:
+                                    - 0
+                                    - 0
+                        origin:
+                            - 0
+                            - 0
+                    b:
+                        paths:
+                            ShapeLine1:
+                                type: line
+                                origin:
+                                    - 73.8687157
+                                    - -19.6597047
+                                end:
+                                    - 85.9930713
+                                    - -26.6597047
+                            ShapeLine2:
+                                type: line
+                                origin:
+                                    - 85.9930713
+                                    - -26.6597047
+                                end:
+                                    - 92.9930713
+                                    - -14.535349099999998
+                            ShapeLine3:
+                                type: line
+                                origin:
+                                    - 92.9930713
+                                    - -14.535349099999998
+                                end:
+                                    - 80.8687157
+                                    - -7.535349099999998
+                            ShapeLine4:
+                                type: line
+                                origin:
+                                    - 80.8687157
+                                    - -7.535349099999998
+                                end:
+                                    - 73.8687157
+                                    - -19.6597047
+                        origin:
+                            - 0
+                            - 0
+                origin:
+                    - 0
+                    - 0
+            b:
+                paths:
+                    ShapeLine1:
+                        type: line
+                        origin:
+                            - 89.4499959
+                            - -29.3122962
+                        end:
+                            - 99.3494908
+                            - -39.2117911
+                    ShapeLine2:
+                        type: line
+                        origin:
+                            - 99.3494908
+                            - -39.2117911
+                        end:
+                            - 109.24898569999999
+                            - -29.3122962
+                    ShapeLine3:
+                        type: line
+                        origin:
+                            - 109.24898569999999
+                            - -29.3122962
+                        end:
+                            - 99.3494908
+                            - -19.412801299999998
+                    ShapeLine4:
+                        type: line
+                        origin:
+                            - 99.3494908
+                            - -19.412801299999998
+                        end:
+                            - 89.4499959
+                            - -29.3122962
+                origin:
+                    - 0
+                    - 0
+        origin:
+            - 0
+            - 0
+units: mm
+origin:
+    - 0
+    - 0

@@ -1,0 +1,90 @@
+models:
+    export:
+        models:
+            a:
+                models:
+                    a:
+                        models:
+                            a:
+                                models:
+                                    a:
+                                        models:
+                                            a:
+                                                models: {}
+                                                origin:
+                                                    - 0
+                                                    - 0
+                                            b:
+                                                paths:
+                                                    circle:
+                                                        type: circle
+                                                        origin:
+                                                            - 9
+                                                            - 28.9
+                                                        radius: 2.05
+                                                origin:
+                                                    - 0
+                                                    - 0
+                                        origin:
+                                            - 0
+                                            - 0
+                                    b:
+                                        paths:
+                                            circle:
+                                                type: circle
+                                                origin:
+                                                    - 9
+                                                    - 0
+                                                radius: 2.05
+                                        origin:
+                                            - 0
+                                            - 0
+                                origin:
+                                    - 0
+                                    - 0
+                            b:
+                                paths:
+                                    circle:
+                                        type: circle
+                                        origin:
+                                            - 63
+                                            - 61.2
+                                        radius: 2.05
+                                origin:
+                                    - 0
+                                    - 0
+                        origin:
+                            - 0
+                            - 0
+                    b:
+                        paths:
+                            circle:
+                                type: circle
+                                origin:
+                                    - 54
+                                    - -6.119999999999999
+                                radius: 2.05
+                        origin:
+                            - 0
+                            - 0
+                origin:
+                    - 0
+                    - 0
+            b:
+                paths:
+                    circle:
+                        type: circle
+                        origin:
+                            - 92.3491337
+                            - -22.311939099999996
+                        radius: 2.05
+                origin:
+                    - 0
+                    - 0
+        origin:
+            - 0
+            - 0
+units: mm
+origin:
+    - 0
+    - 0
