@@ -37,31 +37,26 @@ points:
             stagger: 0 ky
             spread: kx
             column_net: col_pinky
-          rows.home.skip: true
         ring:
           key:
             stagger: 0.7 ky
             spread: kx
             column_net: col_ring
-          rows.home.skip: true
         middle:
           key:
             stagger: 0.2 ky
             spread: kx
             column_net: col_middle
-          rows.top.skip: true
         index:
           key:
             stagger: -0.2 ky
             spread: kx
             column_net: col_index
-          rows.home.skip: true
         inner:
           key:
             stagger: -0.1 ky
             spread: kx
             column_net: col_inner
-          rows.home.skip: true
       rows:
         bottom:
           row_net: row_bottom
